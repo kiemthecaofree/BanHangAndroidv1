@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Xin chào 999
+=======
+Xin chào 345
+>>>>>>> f92bb5ff7d0615997ed3c9ac0b1bbdcff8912efb
+Good
